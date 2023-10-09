@@ -4,10 +4,10 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=E5C890&center=true&vCenter=true&multiline=true&width=435&height=60&lines=Hi!+I'm+Lunar-potato+%F0%9F%8C%99;Welcome+to+my+profile+%3AD" alt="Typing SVG" /></a>
 </h1>
 
-<h3 align = "center">𝙷𝚒, 𝙸'𝚖 𝙶𝚠𝚢, 𝚊 𝚏𝚞𝚕𝚕-𝚜𝚝𝚊𝚌𝚔 𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛 𝚊𝚗𝚍 𝚐𝚊𝚖𝚎𝚛 👾</h3>
+<h3 align = "center">𝙷𝚒, 𝙸'𝚖 𝙶𝚠𝚢, 𝚊 front-end 𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛 𝚊𝚗𝚍 𝚐𝚊𝚖𝚎𝚛 👾</h3>
 <p align = "center">I'm a passionate full-stack developer and I love building web applications that solve real-world problems and provide a great user experience. Still a work in progress and expanding my knowledge to provide the best user experience. Here's a bit about me:</p>
 
-<p align = "center">💻 I'm currently on an intensive bootcamp course in Full-Stack Development in University of Birmingham</p> 
+<p align = "center">💻 I'm currently on an intensive bootcamp course in Front-End Development in University of Birmingham</p> 
 <p align = "center">📚 Currently expanding my knowledge to provide better user-friendly websites </p>
 
 <div align="center">
