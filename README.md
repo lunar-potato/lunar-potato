@@ -37,6 +37,9 @@ Here are some of the projects I'm proud of:
 
 </br>
 
+<a href="https://github.com/lunar-potato/react-portfolio">
+  <img align="center" height="130" src="https://github-readme-stats.vercel.app/api/pin/?username=lunar-potato&repo=react-portfolio&theme=ayu-mirage&border_color=e5c890" />
+</a>
 <a href="https://github.com/lunar-potato/gamma-movies">
   <img align="center" height="130" src="https://github-readme-stats.vercel.app/api/pin/?username=lunar-potato&repo=gamma-movies&theme=ayu-mirage&border_color=e5c890" />
 </a>
@@ -46,9 +49,6 @@ Here are some of the projects I'm proud of:
 <br/><br/>
 <a href="https://github.com/lunar-potato/coding-quiz">
   <img align="center" height="130" src="https://github-readme-stats.vercel.app/api/pin/?username=lunar-potato&repo=coding-quiz&theme=ayu-mirage&border_color=e5c890" />
-</a>
-<a href="https://github.com/lunar-potato/weather-dashboard">
-  <img align="center" height="130" src="https://github-readme-stats.vercel.app/api/pin/?username=lunar-potato&repo=weather-dashboard&theme=ayu-mirage&border_color=e5c890" />
 </a>
 <br/><br/>
 Feel free to explore more of my Repositories
