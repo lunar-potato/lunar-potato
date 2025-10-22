@@ -1,9 +1,5 @@
 ![visitor badge](https://visitor-badge.laobi.icu/badge?page_id=lunar-potato.visitor-badge&left_color=#eed49f&right_color=pink&left_text=visitors)
 
-<h1 align = "center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=E5C890&center=true&vCenter=true&multiline=true&width=435&height=60&lines=Hi!+I'm+Lunar-potato+%F0%9F%8C%99;Welcome+to+my+profile+%3AD" alt="Typing SVG" /></a>
-</h1>
-
 <h3 align = "center">𝙷𝚒, 𝙸'𝚖 𝙶𝚠𝚢 👾</h3>
 <p align = "center">Here's a bit about me:</p>
 
