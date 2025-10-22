@@ -4,20 +4,11 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=E5C890&center=true&vCenter=true&multiline=true&width=435&height=60&lines=Hi!+I'm+Lunar-potato+%F0%9F%8C%99;Welcome+to+my+profile+%3AD" alt="Typing SVG" /></a>
 </h1>
 
-<h3 align = "center">𝙷𝚒, 𝙸'𝚖 𝙶𝚠𝚢, 𝚊 𝚏𝚛𝚘𝚗𝚝-𝚎𝚗𝚍 𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛 𝚊𝚗𝚍 𝚐𝚊𝚖𝚎𝚛 👾</h3>
-<p align = "center">I'm a passionate full-stack developer and I love building web applications that solve real-world problems and provide a great user experience. Still a work in progress and expanding my knowledge to provide the best user experience. Here's a bit about me:</p>
+<h3 align = "center">𝙷𝚒, 𝙸'𝚖 𝙶𝚠𝚢 👾</h3>
+<p align = "center">Here's a bit about me:</p>
 
 <p align = "center">💻 I'm currently on an intensive bootcamp course in Front-End Development in University of Birmingham</p> 
 <p align = "center">📚 Currently expanding my knowledge to provide better user-friendly websites </p>
-
-<div align="center">
-
-- 🌐 Website: [Moonfolio](https://sukiluna.me)
-- 📫 Email: [gwy@sukiluna.me](mailto:gwy@sukiluna.me)
-- <img src="https://upload.wikimedia.org/wikipedia/commons/f/f8/LinkedIn_icon_circle.svg" height="20" width="20" alt="HTML5"> LinkedIn: [Gwyneth Bautista](https://www.linkedin.com/in/gwyneth-bautista-284053257/)
-
-</div>
-
 
 <h2 align="center">🔧 𝚃𝚘𝚘𝚕𝚜</h2>
 <div align="center">
@@ -33,7 +24,7 @@
 
 <h2 align="center">💻 𝚁𝚎𝚙𝚘𝚜𝚒𝚝𝚘𝚛𝚒𝚎𝚜</h2>
 <div align = "center">
-Here are some of the projects I'm proud of:
+Here are some of the projects I've worked on:
 
 </br>
 
